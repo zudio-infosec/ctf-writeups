@@ -27,6 +27,7 @@
 | Encoding Layers | General Skills | Easy | ✅ Done |
 | Offensive Security Intro | Web Exploitation | Easy | ✅ Done |
 | Defensive Security Intro | Defensive Security | Easy | ✅ Done |
+| DNS in Detail | Networking | Easy | ✅ Done |
 
 > Detailed writeups coming soon for each challenge
 
