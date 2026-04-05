@@ -26,6 +26,7 @@
 | Cookie Manipulation | Web Exploitation | Easy | ✅ Done |
 | Encoding Layers | General Skills | Easy | ✅ Done |
 | Offensive Security Intro | Web Exploitation | Easy | ✅ Done |
+| Defensive Security Intro | Defensive Security | Easy | ✅ Done |
 
 > Detailed writeups coming soon for each challenge
 
