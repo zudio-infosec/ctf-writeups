@@ -10,7 +10,7 @@
 | Platform | Profile | Status |
 |---|---|---|
 | PicoCTF | Active | 🟢 Ongoing |
-| TryHackMe | Coming soon | 🔜 |
+| TryHackMe | zudio001 | 🟢 Ongoing |
 | HackTheBox | Coming soon | 🔜 |
 
 ---
