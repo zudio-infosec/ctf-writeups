@@ -25,6 +25,7 @@
 | Hash Cracking | Cryptography | Easy | ✅ Done |
 | Cookie Manipulation | Web Exploitation | Easy | ✅ Done |
 | Encoding Layers | General Skills | Easy | ✅ Done |
+| Offensive Security Intro | Web Exploitation | Easy | ✅ Done |
 
 > Detailed writeups coming soon for each challenge
 
