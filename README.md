@@ -1,7 +1,16 @@
 # 🏁 CTF Writeups
 
-> Documenting my journey through Capture The Flag challenges.
-> All challenges solved in legal, controlled environments.
+My documented solutions for CTF challenges and security exercises.
+
+**Goal**: Learn in public. Share techniques. Build a reference for myself and others.
+
+---
+
+## 📌 Recently Updated
+
+- OTP Bypass (PicoCTF Web Exploitation)
+- Hash Cracking (PicoCTF Cryptography)
+- HTTP in Detail (TryHackMe Networking)
 
 ---
 
