@@ -1,0 +1,53 @@
+# 🏁 CTF Writeups
+
+My documented solutions for CTF challenges and security exercises.
+
+**Goal**: Learn in public. Share techniques. Build a reference for myself and others.
+
+---
+
+## 📌 Recently Updated
+
+- OTP Bypass (PicoCTF Web Exploitation)
+- Hash Cracking (PicoCTF Cryptography)
+- HTTP in Detail (TryHackMe Networking)
+
+---
+
+## 📌 Platforms
+
+| Platform | Profile | Status |
+|---|---|---|
+| PicoCTF | Active | 🟢 Ongoing |
+| TryHackMe | zudio001 | 🟢 Ongoing |
+| HackTheBox | Coming soon | 🔜 |
+
+---
+
+## 📂 Writeups
+
+### 🔐 PicoCTF
+
+| Challenge | Category | Difficulty | Status |
+|---|---|---|---|
+| OTP Bypass | Web Exploitation | Easy | ✅ Done |
+| Hash Cracking | Cryptography | Easy | ✅ Done |
+| Cookie Manipulation | Web Exploitation | Easy | ✅ Done |
+| Encoding Layers | General Skills | Easy | ✅ Done |
+| Offensive Security Intro | Web Exploitation | Easy | ✅ Done |
+| Defensive Security Intro | Defensive Security | Easy | ✅ Done |
+| DNS in Detail | Networking | Easy | ✅ Done |
+
+> Detailed writeups coming soon for each challenge
+
+---
+
+## 🛠️ Tools Used
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+*Updated regularly as I solve more challenges*
